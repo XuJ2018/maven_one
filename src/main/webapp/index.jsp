@@ -4,6 +4,6 @@
 
 </head>
 <body>
-<a href="login.html"><h2>进入主页5</h2></a>
+<a href="login.html"><h2>进入主页</h2></a>
 </body>
 </html>
